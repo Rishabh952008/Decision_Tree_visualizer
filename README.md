@@ -4,4 +4,4 @@ Decision Tree, Support Vector Machine, & Logistic Regressions, machine learning 
 
 Follow this link to check out the final results.
 
-https://varunlobo-decision-tree-using-streamlit-main-myvzpw.streamlit.app/
+
